@@ -1,5 +1,11 @@
 ![logo](https://github.com/leelakrishnasainaidu/LeelaKrishnaSai24/blob/main/Cover%20Picture.png)
 
+<style>
+    body {
+        font-family: 'Outfit';
+    }
+</style>
+
 # Hi 👋🏻, I'm Leela Krishna Sai Naidu
 ### Enthusiastic Computer Science Student and Frontend Developer
 ---

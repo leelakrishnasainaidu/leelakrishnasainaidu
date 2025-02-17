@@ -1,10 +1,13 @@
 ![logo](https://github.com/leelakrishnasainaidu/LeelaKrishnaSai24/blob/main/Cover%20Picture.png)
 
-<style>
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit&display=swap" rel="stylesheet">
+  <style>
     body {
-        font-family: 'Outfit', sans-serif;
+      font-family: 'Outfit', sans-serif;
     }
-</style>
+  </style>
+</head>
 
 # Hi 👋🏻, I'm Leela Krishna Sai Naidu
 ### Enthusiastic Computer Science Student and Frontend Developer

@@ -21,7 +21,7 @@
 ---
 
 ## 🌱 Currently Learning
-- **Backend Development in Depth**
+- **Backend Development**
 - **Cloud Services & Deployment**
 
 ---
@@ -39,7 +39,7 @@
 
 ## 📫 Connect With Me
 - **GitHub:** [leelakrishnasainaidu](https://github.com/leelakrishnasainaidu)
-- **LinkedIn:** [Leela Krishna Sai Naidu](https://www.linkedin.com/in/leelakrishnasai)
+- **LinkedIn:** [leelakrishnasai](https://www.linkedin.com/in/leelakrishnasai)
 - **Portfolio:** (https://leelakrishnasai.me)
 
 🚀 **Let's Connect & Build Something Amazing!**

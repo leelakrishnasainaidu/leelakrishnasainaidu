@@ -39,7 +39,7 @@
 
 ## 📫 Connect With Me
 - **GitHub:** [LeelaKrishnaSai24](https://github.com/leelakrishnasainaidu)
-- **LinkedIn:** [Leela Krishna Sai Naidu](https://www.linkedin.com/in/leelakrishnasainaidu)
+- **LinkedIn:** [Leela Krishna Sai Naidu](https://www.linkedin.com/in/leelakrishnasai)
 - **Portfolio:** (https://leelakrishnasai.me)
 
 🚀 **Let's Connect & Build Something Amazing!**

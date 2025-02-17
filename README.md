@@ -28,7 +28,7 @@
 
 ## 👨‍💻 Work & Experience
 - 🏢 **Senior Developer Intern** at **RCTS, IITH**
-- 🎓 **Campus Ambassador** - ** Unstop **
+- 🎓 **Campus Ambassador** - **Unstop**
 - 💡 **Frontend Developer** for **DATA DIALECT - NLP-based Platform**
 
 ---

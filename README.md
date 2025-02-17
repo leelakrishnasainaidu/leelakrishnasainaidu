@@ -2,7 +2,7 @@
 
 <style>
     body {
-        font-family: 'Outfit';
+        font-family: 'Outfit', sans-serif;
     }
 </style>
 
@@ -45,7 +45,7 @@
 
 ## 📫 Connect With Me
 - **GitHub:** [LeelaKrishnaSai24](https://github.com/leelakrishnasainaidu)
-- **LinkedIn:** [Leela Krishna Sai Naidu](https://www.linkedin.com/in/leelakrishnasai)
+- **LinkedIn:** [Leela Krishna Sai Naidu](https://www.linkedin.com/in/leelakrishnasainaidu)
 - **Portfolio:** (https://leelakrishnasai.me)
 
 🚀 **Let's Connect & Build Something Amazing!**

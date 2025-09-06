@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 🎓 **Final-year B.Tech Student** specializing in **Computer Science Engineering (CSE) with AI & ML**.
-- 💻 **Passionate about **Frontend Development**, **Web Development**.
+- 💻 Passionate about **Frontend Development**, **Web Development**.
 - ✨ **Creative Editor** with **4+ years of experience** in **photo and video editing**.
 ---
 

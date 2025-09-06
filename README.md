@@ -34,7 +34,7 @@
 - 🏢 **Senior Developer Intern** at **RCTS, IITH**
 - 🎓 **Campus Ambassador** - **Unstop**
 - ✨ **Photo & Video Editing** on **mobile and PC applications** since **2020**
-- - 👥 **Team Lead** at **KIET** (Jan 2024 – Apr 2025) – Managed the team and final-year project while coordinating data with the class representative.
+- 👥 **Team Lead** at **KIET** (Jan 2024 – Apr 2025) – Managed the team and final-year project while coordinating data with the class representative.
 ---
 
 ## 📊 Stats & Achievements

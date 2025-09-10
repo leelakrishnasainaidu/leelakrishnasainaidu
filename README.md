@@ -1,4 +1,4 @@
-![logo](https://github.com/leelakrishnasainaidu/LeelaKrishnaSai24/blob/main/Cover%20Picture.png)
+![logo](https://github.com/leelakrishnasainaidu/leelakrishnasainaidu/blob/main/cover_picture.png)
 
 # Hi 👋🏻, I'm Leela Krishna Sai Naidu
 ### Enthusiastic Computer Science Student

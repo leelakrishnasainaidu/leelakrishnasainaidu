@@ -72,8 +72,7 @@
 ## 👨‍💻 Work Experience
 
 ### **Programmer Analyst Trainee** – *Cognizant*
-**Feb 2026 – Present**
-📍 **Coimbatore, Tamil Nadu, India · On-site**
+**Feb 2026 – Present** **· On-site**
 
 - Working as a Programmer Analyst Trainee.
 

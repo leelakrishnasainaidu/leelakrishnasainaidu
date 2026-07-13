@@ -76,8 +76,6 @@
 📍 **Coimbatore, Tamil Nadu, India · On-site**
 
 - Working as a Programmer Analyst Trainee.
-- Building enterprise applications using Java and Spring technologies.
-- Collaborating with teams to develop and maintain scalable software solutions.
 
 ---
 
